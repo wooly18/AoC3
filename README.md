@@ -2,9 +2,9 @@
 
 ## interpreter.py usage
 ```
-python3 interpreter.py <TM_filepath> <input_filepath>
+$ python3 interpreter.py <TM_filepath> <input_filepath>
 ```
 ## example
 ```
-python3 interpreter.py part1.tm input1.txt
+$ python3 interpreter.py part1.tm input1.txt
 ```
